@@ -35,18 +35,22 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The aunswer of Iohn Gough preacher, to Maister Fecknams obiections against his sermon, lately preach
+
+1. ¶TO THE RIGHT worshipfull Mayster Pellam, the Quenes Maiesties Lieftenaunt of her highnes Ordinaunce of the Tower, Iohn Gough Preacher of the word of God, sendeth greeting in our Lord God euerlasting. Amen.
+
 #####Body#####
 
-1. ¶M. Fecknams first Article. 1 That it is not impossible to keepe God hys commaundement.
+1. ❧ The aunswer of Iohn Gough Preacher, to M. Fecknams Obiections.
 
-1. ¶M. Fecknams second article.
+    _ ¶M. Fecknams first Article. 1 That it is not impossible to keepe God hys commaundement.
+
+    _ ¶M. Fecknams second article.
 
 2 That the Angels & Saintes of heauen may heare our prayers, and therefore to be praied vnto.
 
-1. ¶ M. Fecknams third article. 3 That fayth onelye doth not iustifie.
+    _ ¶ M. Fecknams third article. 3 That fayth onelye doth not iustifie.
 
-1. ¶M. Fecknams .4. and last article. 4 That euery sinne is not mortall.
+    _ ¶M. Fecknams .4. and last article. 4 That euery sinne is not mortall.
 
 **Types of content**
 
